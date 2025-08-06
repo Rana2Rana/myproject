@@ -37,23 +37,13 @@ df['Quantity'] = pd.to_numeric(df['Quantity'], errors='coerce')
 df['Discount'] = pd.to_numeric(df['Discount'], errors='coerce') 
 df['Profit'] = pd.to_numeric(df['Profit'], errors='coerce')
 print("Dtypes successfully adjusted")
-# Check for missing values
-missing_values = df.isnull().sum()
-print("Missing values in each column:")
-print(missing_values[missing_values > 0])   
-# Total number of duplicate rows
-print(df.duplicated().sum())
-
-# Create time-based features
-df['Year'] = df['Order Date'].dt.year
-df['Month'] = df['Order Date'].dt.month
-df['YearMonth'] = df['Order Date'].dt.to_period('M').astype(str)
-
-# Filter relevant columns
-product_df = df[['Order ID', 'Order Date', 'Product Name', 'Sub-Category', 'Region', 
-                 'Sales', 'Profit', 'Discount', 'Quantity', 'Year', 'Month', 'YearMonth']]
-# Display the first few rows of the cleaned product DataFrame
-print(product_df.head())    
+# # Check for missing values
+# missing_values = df.isnull().sum()
+# print("Missing values in each column:")
+# print(missing_values[missing_values > 0])   
+# # Total number of duplicate rows
+# print(df.duplicated().sum())
+ 
 
 # Save to CSV
-product_df.to_csv('clean_superstore.csv', index=False)
+df.to_csv('clean_superstore.csv', index=False)
