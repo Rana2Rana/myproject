@@ -46,11 +46,11 @@ This project presents an interactive Power BI dashboard that analyzes product-le
 
 ---
 
-## 🛠Tools & Technologies
+## Tools & Technologies
 
 - **Power BI** – for data modeling, visualizations, and dashboard creation  
 - **DAX** – for calculated measures (e.g., profit ratio, YoY comparison)  
-- **Excel** – initial data cleaning and formatting
+- **Python** – initial data cleaning and formatting
 
 ---
 
