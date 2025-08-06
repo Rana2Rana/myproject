@@ -7,7 +7,7 @@ This project presents an interactive Power BI dashboard that analyzes product-le
 ## 📊 Dashboard Overview
 
 
-![Dashboard Screenshot](assets/Superstore%20Dashboard-Overview.png)
+![Dashboard Screenshot]((https://github.com/Rana2Rana/myproject/blob/main/assest/Superstore%20Dashboard-Overview.png))
 
 
 ### ✅ Key Metrics:
