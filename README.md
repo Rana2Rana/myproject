@@ -1,4 +1,4 @@
-# 🛍️ Superstore Product Analysis Dashboard
+#  Superstore Product Analysis Dashboard
 
 This project presents an interactive Power BI dashboard that analyzes product-level performance using the Superstore dataset. It provides a clear view of sales, profit, discounts, and profit ratios across various product sub-categories to help businesses identify trends, optimize product offerings, and improve profitability.
 
@@ -6,7 +6,9 @@ This project presents an interactive Power BI dashboard that analyzes product-le
 
 ## 📊 Dashboard Overview
 
-The **Superstore's Product Analysis Dashboard** includes the following KPIs and visualizations:
+
+![Dashboard Screenshot](assets/Superstore%20Dashboard-Overview.png)
+
 
 ### ✅ Key Metrics:
 - **Total Sales:** $355M  
@@ -59,6 +61,18 @@ The **Superstore's Product Analysis Dashboard** includes the following KPIs and 
 - **April and May** show the highest profit ratios, possibly due to optimized sales and discounts.
 - Discounting trends show a fluctuating impact on profit ratios, indicating the need for smarter discount strategies.
 - A few sub-categories have high sales but negative or very low profit margins.
+
+---
+## 🧠 Analysis Conclusions
+
+Based on the dashboard visuals and metrics, we can conclude the following:
+
+- The high overall profit ratio (180.3%) indicates efficient cost management, especially in high-profit sub-categories like Copiers and Binders.
+- Certain sub-categories (e.g., Bookcases and Tables) have high sales but low or negative profits, which suggests the need for reviewing pricing or supplier contracts.
+- Discounts show a visible seasonal pattern, peaking around March to May, potentially linked to promotional campaigns. However, this doesn’t always correlate with higher profitability.
+- The bubble chart clearly identifies sub-categories with low sales but high profit ratios, indicating potential for growth through focused promotion.
+
+These findings help guide decisions in product portfolio management, discount strategies, and sales optimization.
 
 ---
 
