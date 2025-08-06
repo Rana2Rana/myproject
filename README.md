@@ -4,20 +4,20 @@ This project presents an interactive Power BI dashboard that analyzes product-le
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 
 ![Dashboard Screenshot](https://github.com/Rana2Rana/myproject/blob/main/assest/Superstore%20Dashboard-Overview.png)
 
 
-### ✅ Key Metrics:
+### Key Metrics:
 - **Total Sales:** $355M  
 - **Total Profit:** $641M  
 - **Profit Ratio:** 180.3%  
 - **Total Discount:** 6K  
 - **Total Sales vs LY:** $355.31M (↑ 15.02% from goal)
 
-### 📈 Visuals Included:
+### Visuals Included:
 1. **Profit by Sub-Category**  
 2. **Sales by Sub-Category**  
 3. **Total Sales and Profit Comparison (Bar Chart)**  
@@ -26,7 +26,7 @@ This project presents an interactive Power BI dashboard that analyzes product-le
 
 ---
 
-## 🧠 Business Questions Answered
+## Business Questions Answered
 
 - Which product sub-categories generate the highest profit?
 - What are the top-selling product sub-categories?
@@ -36,7 +36,7 @@ This project presents an interactive Power BI dashboard that analyzes product-le
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source:** [Superstore Sales Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - **Contents:**  
@@ -46,7 +46,7 @@ This project presents an interactive Power BI dashboard that analyzes product-le
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠Tools & Technologies
 
 - **Power BI** – for data modeling, visualizations, and dashboard creation  
 - **DAX** – for calculated measures (e.g., profit ratio, YoY comparison)  
@@ -54,7 +54,7 @@ This project presents an interactive Power BI dashboard that analyzes product-le
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - **Copiers** are the most profitable sub-category with over **$18M in profit**.
 - **Bookcases** have high sales but relatively lower profit, suggesting a potential pricing or cost issue.
@@ -63,7 +63,7 @@ This project presents an interactive Power BI dashboard that analyzes product-le
 - A few sub-categories have high sales but negative or very low profit margins.
 
 ---
-## 🧠 Analysis Conclusions
+## Analysis Conclusions
 
 Based on the dashboard visuals and metrics, we can conclude the following:
 
@@ -76,7 +76,7 @@ These findings help guide decisions in product portfolio management, discount st
 
 ---
 
-## 🚀 How to Use This Dashboard
+## How to Use This Dashboard
 
 1. Open the `.pbix` file in Power BI Desktop.
 2. Explore each visual to analyze product performance.
@@ -84,7 +84,7 @@ These findings help guide decisions in product portfolio management, discount st
 4. Hover over the bubble chart for a quick overview of sales vs. profitability.
 
 ---
-## 📌 Author
+## Author
 
 **Rana** – Data Support Officer & Aspiring Data Analyst  
 This dashboard is part of my portfolio to demonstrate skills in product trend analysis using Power BI.
