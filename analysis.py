@@ -9,7 +9,7 @@ import numpy as np
 pd.set_option('display.max_columns', None)
 
 # Load the dataset
-file_path = '/Users/ranaabuthaher/Documents/Test/myproject/Dataset/Superstore.csv'
+file_path = 'Dataset/Superstore.csv'
 df = pd.read_csv(file_path, encoding='ISO-8859-1')
 
 # Understand the dataset
